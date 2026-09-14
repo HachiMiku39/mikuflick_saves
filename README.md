@@ -16,3 +16,10 @@ You can pull saving data to your phone via iOS file management applications to t
 存档路径 :
 path of gamesave:
 .../Documents
+
+只解锁到HARD难度，没有EXTREME
+Unlock to HARD, no EXTREME
+
+不继续更新了，去看隔壁MikuFlick2吧，全部曲的东西都在那边
+THIS PROJECT WAS END OF SERVICE
+GO TO ANOTHER PROJECT: MIKUFLICK02
